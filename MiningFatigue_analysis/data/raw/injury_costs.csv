@@ -1,0 +1,5 @@
+injury_type,cost_category,amount_usd,source
+any_cause_lti,direct,100000,NSC Readi ROI Analysis
+any_cause_lti,indirect,500000,NSC Readi ROI Analysis
+fatigue_related_lti,direct,150000,NSC Readi ROI Analysis
+fatigue_related_lti,indirect,750000,NSC Readi ROI Analysis
