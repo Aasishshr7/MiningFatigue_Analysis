@@ -206,10 +206,10 @@ should have a systems solution.
 ![Financial Impact Dashboard](insights\Fatigueanalysis.png)
 
 ### Operational Fatigue Analysis
-![Operational Analysis Dashboard](insights\FinancialImpact.png)
+![Operational Analysis Dashboard](insights/FinancialImpact.png)
 
 ### Fatigue Risk and Safety Analysis
-![Risk Analysis Dashboard](insights\OperationalAnalysis.png)
+![Risk Analysis Dashboard](insights/OperationalAnalysis.png)
 
 ---
 
