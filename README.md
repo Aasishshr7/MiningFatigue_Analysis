@@ -52,7 +52,7 @@ This surprised me. The literature on circadian rhythms is unambiguous:
 the human body hits its lowest point between 3 AM and 5 AM. I expected 
 to see that. Instead, the highest-risk hour was midday, with morning 
 shift incidents clustering heavily between 11:00 and 13:00. This aligns 
-with the well-documented "post-lunch dip" — a secondary circadian low 
+with the well-documented "post-lunch dip", a secondary circadian low 
 that occurs roughly 12 hours after the body's primary low point.
 
 **2. Shift hour matters more than shift type.**
@@ -147,7 +147,7 @@ complexity all play a role.
 **4. The financial figures are modelled estimates.**
 The $2.64B total reflects the full synthetic dataset across multiple 
 countries. For a single site, the annual cost would be substantially 
-lower — likely $5M-$30M depending on size. The percentage-based 
+lower likely $5M-$30M depending on size. The percentage-based 
 savings framework (20% reduction) is what transfers to real settings.
 
 **5. This is a roster design tool, not a surveillance tool.**
