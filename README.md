@@ -3,7 +3,9 @@
 
 ---
 
-## The 4 AM Phone Call
+## The 4 AM Wake-up Call: Analysing Fatigue Risk in Mining Operations
+
+My next-door neighbor spent twelve years working FIFO in the Pilbara, operating haul trucks on a two-weeks-on, one-week-off roster. He was experienced, highly regarded, and known for being careful behind the wheel.
 
 A few months ago, I noticed he had not returned home for nearly a month. Since he lived alone, I grew concerned. When he finally came back, I asked about life on site and the challenges of working in mining.
 
@@ -30,7 +32,7 @@ mining. Was the 4 AM window special? Could companies do something about it?
 
 So I asked:
 
-> **At what point in a shift — and at what time of day — are mining 
+> **At what point in a shift, and at what time of day are mining 
 > workers at highest risk of a safety incident? And where should 
 > mandatory breaks be positioned to reduce that risk?**
 
@@ -203,14 +205,13 @@ should have a systems solution.
 ## Dashboard Preview
 
 ### Financial Impact
-![Financial Impact Dashboard](insights\Fatigueanalysis.png)
+![Financial Impact Dashboard](MiningFatigue_analysis/insights/FinancialImpact.png)
 
 ### Operational Fatigue Analysis
-![Operational Analysis Dashboard](insights/FinancialImpact.png)
+![Operational Analysis Dashboard](MiningFatigue_analysis/insights/OperationalAnalysis.png)
 
 ### Fatigue Risk and Safety Analysis
-![Risk Analysis Dashboard](insights/OperationalAnalysis.png)
-
+![Risk Analysis Dashboard](MiningFatigue_analysis/insights/Fatigueanalysis.png)
 ---
 
 ## Repository Structure
