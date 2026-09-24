@@ -46,7 +46,7 @@ the DRC.
 
 Three patterns stood out:
 
-**1. Incidents peak at 12:00 — noon, not 3 AM.**
+**1. Incidents peak at 12:00 noon, not 3 AM.**
 
 This surprised me. The literature on circadian rhythms is unambiguous: 
 the human body hits its lowest point between 3 AM and 5 AM. I expected 
