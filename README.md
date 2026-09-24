@@ -135,7 +135,7 @@ literature, but they are illustrative, not definitive.
 
 **2. The noon peak contradicted my hypothesis.**
 I expected the 3-5 AM window. I found a noon peak instead. This doesn't 
-mean the 3-5 AM window doesn't exist — it means this dataset captures 
+mean the 3-5 AM window doesn't exist, it means this dataset captures 
 the post-lunch dip more strongly. Real operational data would be needed 
 to confirm either pattern.
 
@@ -214,4 +214,3 @@ should have a systems solution.
 ![Risk Analysis Dashboard](MiningFatigue_analysis/insights/Fatigueanalysis.png)
 ---
 
-## Repository Structure
